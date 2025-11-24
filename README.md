@@ -1,4 +1,4 @@
-# Project 2 Group 8
+# MIST 4610 Project 2 Group 8
 # Team Name:
 Group 8
 # Team Members:
