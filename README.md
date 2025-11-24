@@ -98,7 +98,7 @@ This database does not support full textbook content like PDFs, employee payroll
 
 # Database Information:
 
-Name of the Database: cs_mhl67797
+Name of the Database: cs_mhl67797 or cs_jam37624
 
 # Tableau Visualizations
 
