@@ -95,20 +95,22 @@ Employees who process orders. It contains details like employee first name, last
 
 # Queries:
 
-Query 1
+### Query 1
 <img width="1952" height="1125" alt="image" src="https://github.com/user-attachments/assets/8003ace6-03d7-493b-9602-d1d2e3cf32c2" />
 
-Query 2
+### Query 2
 <img width="1797" height="1176" alt="image" src="https://github.com/user-attachments/assets/d281d6ef-08f0-4685-8a9d-04c4f32d825c" />
 
-Query 3
+### Query 3
 <img width="1010" height="824" alt="image" src="https://github.com/user-attachments/assets/ecccee43-80ed-40f5-aeb5-9c0e2d01ccdc" />
 
-Query 4
-<img width="1642" height="1148" alt="image" src="https://github.com/user-attachments/assets/6a0d7a86-b041-4cb5-be04-b2f5400acdaa" />
+### Query 4
+<img width="1642" height="1148" alt="image" src="https://github.com/user-attachments/assets/242c22b8-9585-4b24-9550-c14e11bfbdf8" />
 
-Query 5
-<img width="928" height="1070" alt="image" src="https://github.com/user-attachments/assets/3fa8d465-f1ab-4c55-aac9-001c107159be" />
+### Query 5
+
+<img width="928" height="1070" alt="image" src="https://github.com/user-attachments/assets/b519be2a-a72b-49a4-88e4-cbfdb5e07ff5" />
+
 
 # Database Information:
 
