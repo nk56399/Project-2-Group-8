@@ -52,8 +52,8 @@ Employees who process orders. It contains details like employee first name, last
 
 This database supports storage of book information like titles, authors, publishers, genres, and publication years. It has customer and order information like customer details, orders, order items, payments. It has inventory stock, pricing, order processing by employees, and manager structures. There is data like book reviews, ratings, and total reviews. Lastly there are genre classifications.
 This database does not support full textbook content like PDFs, employee payroll, customer addresses, payment methods like credit cards, shipment tracking, or marketing and loyalty programs.
- 
-<img width="974" height="905" alt="image" src="https://github.com/user-attachments/assets/7941d7a0-09eb-4923-af1f-4c861d92466a" />
+
+<img width="974" height="925" alt="project2datamodel" src="https://github.com/user-attachments/assets/342c3a66-01bb-4ab0-a798-82f5fa1d20bd" />
 
 # Data Dictionary:
 
