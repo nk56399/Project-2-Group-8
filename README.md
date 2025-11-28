@@ -95,11 +95,43 @@ Employees who process orders. It contains details like employee first name, last
 
 # Queries:
 
+Query 1
+<img width="1952" height="1125" alt="image" src="https://github.com/user-attachments/assets/8003ace6-03d7-493b-9602-d1d2e3cf32c2" />
+
+Query 2
+<img width="1797" height="1176" alt="image" src="https://github.com/user-attachments/assets/d281d6ef-08f0-4685-8a9d-04c4f32d825c" />
+
+Query 3
+<img width="1010" height="824" alt="image" src="https://github.com/user-attachments/assets/ecccee43-80ed-40f5-aeb5-9c0e2d01ccdc" />
+
+Query 4
+<img width="1642" height="1148" alt="image" src="https://github.com/user-attachments/assets/6a0d7a86-b041-4cb5-be04-b2f5400acdaa" />
+
+Query 5
+<img width="928" height="1070" alt="image" src="https://github.com/user-attachments/assets/3fa8d465-f1ab-4c55-aac9-001c107159be" />
 
 # Database Information:
 
 Name of the Database: cs_mhl67797 or cs_jam37624
 
 # Tableau Visualizations
+<img width="2132" height="600" alt="image" src="https://github.com/user-attachments/assets/e13dc6b4-7f15-45d9-aafc-405c40560372" />
+<img width="2132" height="600" alt="image" src="https://github.com/user-attachments/assets/a0c96d62-875e-44c4-9ef5-ccc54384fcc2" />
+<img width="2132" height="1290" alt="image" src="https://github.com/user-attachments/assets/1010f0b1-8ec6-452c-b68a-13434f604b61" />
+
+### Number of Books Per Publisher:
+
+- Purpose: This chart shows how many books each publisher contributes to the store.
+- Relevance: Helps managers evaluate inventory, underrepresented publishers, and suppot decisions on which publishers to expand or reduce
+
+### Revenue by Publisher:
+
+- Purpose: This chart shows which publishers contribute the most financially.
+- Relevance: Helps managers evaluate publisher performance, plan partnerships strategically, and negotiate future contracts.
+
+### Sales Trend by Publication Year:
+
+- Purpose: This chart shows how book sale differ across publication years.
+- Relevance: Reveals whether older or newer books drive revenue, and gives a clear view or demand, revenue, and trends.
 
 
