@@ -115,14 +115,14 @@ Query 5
 Name of the Database: cs_mhl67797 or cs_jam37624
 
 # Tableau Visualizations
-<img width="2132" height="600" alt="image" src="https://github.com/user-attachments/assets/e13dc6b4-7f15-45d9-aafc-405c40560372" />
-<img width="2132" height="600" alt="image" src="https://github.com/user-attachments/assets/a0c96d62-875e-44c4-9ef5-ccc54384fcc2" />
+<img width="2132" height="640" alt="image" src="https://github.com/user-attachments/assets/ca64301d-300c-4e57-8173-543f8da12dcf" />
+<img width="2132" height="600" alt="image" src="https://github.com/user-attachments/assets/6f088d96-cab3-4d77-b83e-532db479fbdb" />
 <img width="2132" height="1290" alt="image" src="https://github.com/user-attachments/assets/1010f0b1-8ec6-452c-b68a-13434f604b61" />
 
-### Number of Books Per Publisher:
+### Top 10 Selling Authors:
 
-- Purpose: This chart shows how many books each publisher contributes to the store.
-- Relevance: Helps managers evaluate inventory, underrepresented publishers, and suppot decisions on which publishers to expand or reduce
+- Purpose: This chart shows the top ten authors who generate the highest total sales.
+- Relevance: Helps managers identify which authors consistently bring revenue, and deserve promotion, space, and priority.
 
 ### Revenue by Publisher:
 
@@ -133,5 +133,9 @@ Name of the Database: cs_mhl67797 or cs_jam37624
 
 - Purpose: This chart shows how book sale differ across publication years.
 - Relevance: Reveals whether older or newer books drive revenue, and gives a clear view or demand, revenue, and trends.
+
+
+
+
 
 
