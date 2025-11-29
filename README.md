@@ -3,7 +3,7 @@
 Group 8
 # Team Members:
 1. Neha Kanakamedala [@nk56399](https://github.com/nk56399/Project-2-Group-8)
-2. Mason Lee [@mlee1921]
+2. Mason Lee [@mlee1921](https://github.com/mlee1921/MIST4610-Project-2-Group-8)
 3. Vivienne Lin [@vivi0404]
 4. Daniel Mok [@dlm90284-ai]
 5. Austin Middlebrooks [@Amiddlebrooks]
