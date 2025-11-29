@@ -95,12 +95,14 @@ Employees who process orders. It contains details like employee first name, last
 
 # Queries:
 
+<img width="1181" height="496" alt="image" src="https://github.com/user-attachments/assets/b6077c97-378f-48ca-9292-feed9e3d8364" />
+
 ### Query 1
-Which books are currently in low in inventory and how many of them are left? 
+Which books are currently low in inventory and how many of them are left? 
 
 <img width="1952" height="1125" alt="image" src="https://github.com/user-attachments/assets/8003ace6-03d7-493b-9602-d1d2e3cf32c2" />
 
-Query 1 allows managers to see which books are currently at risk of running out by identifying all titles as low stock. By isolating the books with low inventory levels, managers can quickly determine which books need to be reordered. Sorting the results in descending order of quantity remaining shows which books should be a priority in restocking.  
+Query 1 allows managers to see which books are currently at risk of running out by identifying all book titles as low stock. By isolating the books with low inventory levels, managers can quickly determine which books need to be reordered. Sorting the results in descending order of quantity remaining shows which books should be a priority in restocking.  
 
 Managerial Justification: Helps identify which books are low in inventory and which books need to be restocked. 
 
@@ -152,17 +154,17 @@ Name of the Database: cs_mhl67797 or cs_jam37624
 ### Top 10 Selling Authors:
 
 - Purpose: This chart shows the top ten authors who generate the highest total sales.
-- Relevance: Helps managers identify which authors consistently bring revenue, and deserve promotion, space, and priority.
+- Relevance: Helps managers identify which authors consistently bring revenue, and deserve space and priority in the online bookstore.
 
 ### Revenue by Publisher:
 
 - Purpose: This chart shows which publishers contribute the most financially.
-- Relevance: Helps managers evaluate publisher performance, plan partnerships strategically, and negotiate future contracts.
+- Relevance: Helps managers evaluate publisher performance, plan partnerships strategically, and negotiate future contracts with the most popular publishers.
 
 ### Sales Trend by Publication Year:
 
 - Purpose: This chart shows how book sale differ across publication years.
-- Relevance: Reveals whether older or newer books drive revenue, and gives a clear view or demand, revenue, and trends.
+- Relevance: Reveals whether older or newer books drive revenue, and gives a clear view of demand, revenue, and trends.
 
 
 
