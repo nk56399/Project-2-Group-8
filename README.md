@@ -96,21 +96,49 @@ Employees who process orders. It contains details like employee first name, last
 # Queries:
 
 ### Query 1
+Which books are currently in low in inventory and how many of them are left? 
+
 <img width="1952" height="1125" alt="image" src="https://github.com/user-attachments/assets/8003ace6-03d7-493b-9602-d1d2e3cf32c2" />
 
+Query 1 allows managers to see which books are currently at risk of running out by identifying all titles as low stock. By isolating the books with low inventory levels, managers can quickly determine which books need to be reordered. Sorting the results in descending order of quantity remaining shows which books should be a priority in restocking.  
+
+Managerial Justification: Helps identify which books are low in inventory and which books need to be restocked. 
+
 ### Query 2
+Can you gather a full list of all customers and orders? 
+
 <img width="1797" height="1176" alt="image" src="https://github.com/user-attachments/assets/d281d6ef-08f0-4685-8a9d-04c4f32d825c" />
 
+Query 2 allows manager to view a complete history of each customer’s orders including the details of their payments and the employee involved in processing the order. By combining customers and orders into one table, managers are able to see which customers have placed orders or have placed an order and haven’t paid yet. This query makes it easier for managers to track customer purchasing behavior and easily access full customer order histories. 
+
+Managerial Justification: Helps managers view each customer’s order and payment history. 
+
 ### Query 3
+What are the top 5 highest average rated books? 
+
 <img width="1010" height="824" alt="image" src="https://github.com/user-attachments/assets/ecccee43-80ed-40f5-aeb5-9c0e2d01ccdc" />
 
+Query 3 allows managers to identify which books are the best based on customer reviews by selecting only books with an average rating of 4.5 or higher. By joining author, book, and reviews, the query shows which authors are producing the highest rated books. Limiting the results to the top five and ordering them by rating makes it easy for managers to showcase their highest quality books.  
+
+Managerial Justification: Helps managers identify the highest-rated books and their authors so they can prioritize featuring and promoting these books. 
+
 ### Query 4
+Who does each employee report to and what is each employee’s level in the organization? 
+
 <img width="1642" height="1148" alt="image" src="https://github.com/user-attachments/assets/242c22b8-9585-4b24-9550-c14e11bfbdf8" />
 
+Query 4 allows managers to understand the organizational hierarchy by labeling each employee’s job level based on who they report to. Using the case statement, managers are able to categorize the level and see how each employee fits into the company structure. Sorting by job level makes it easy to view the hierarchy from top to bottom. 
+
+Managerial Justification: Helps managers with a clear view of the entire organization and helps them understand reporting relationships. 
+
 ### Query 5
+Which book genre generates the most revenue? 
 
 <img width="928" height="1070" alt="image" src="https://github.com/user-attachments/assets/b519be2a-a72b-49a4-88e4-cbfdb5e07ff5" />
 
+Query 5 allows managers to identify which book genre generates the most revenue by summing the publisher revenue for all books within each genre. By joining genre, book_has_genre, and book tables, it provides a complete view of revenue contributions across genres. Using the group by with rollup allows managers to see the overall total revenue that is being generated.   
+
+Managerial Justification: Helps managers determine which book genres are the most profitable supporting the decisions on inventory and strategic investment.
 
 # Database Information:
 
